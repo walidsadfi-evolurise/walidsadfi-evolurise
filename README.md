@@ -17,12 +17,15 @@ I join a team, scope one process with the people who run it, and ship an AI agen
 | Repo | What it does |
 | --- | --- |
 | [woocommerce-agent-ready](https://github.com/walidsadfi-evolurise/woocommerce-agent-ready) | Audit a WooCommerce store for agentic commerce readiness. Score /100, a fix for every point lost. |
+| [private-rag-kit](https://github.com/walidsadfi-evolurise/private-rag-kit) | Self-hosted RAG over private documents: hybrid search, verified citations, refusal when the sources are missing, eval loop. Python, pgvector. |
+| [docker-wordpress-prod](https://github.com/walidsadfi-evolurise/docker-wordpress-prod) | Production WordPress/WooCommerce stack: Caddy, nginx FastCGI cache, PHP-FPM, MariaDB, Redis, encrypted S3 backups. |
+| [wp-ai-disclosure](https://github.com/walidsadfi-evolurise/wp-ai-disclosure) | WordPress plugin: detects AI assistants on the site and shows the EU AI Act art. 50 transparency notice. |
 | [Basic-Auth-for-WP-Admin](https://github.com/walidsadfi-evolurise/Basic-Auth-for-WP-Admin) | HTTP basic auth in front of wp-admin and wp-login. |
 | [bulk-plugin-uploader](https://github.com/walidsadfi-evolurise/bulk-plugin-uploader) | Upload, install and activate many WordPress plugins in one go. |
 | [drupal-user-switcher](https://github.com/walidsadfi-evolurise/drupal-user-switcher) | Impersonate any Drupal account to debug permissions, with a one-click return. |
 | [Exit-intent-popup](https://github.com/walidsadfi-evolurise/Exit-intent-popup) | Lightweight exit-intent popup for WordPress. |
 
-Building next: a self-hosted private RAG kit with evals, an MCP server for WooCommerce, a production WordPress stack for Docker and Kubernetes. Watch this space.
+Building next: an MCP server for WooCommerce, a lead-triage agent, the Kubernetes version of the WordPress stack, a Home Assistant LLM agent. Watch this space.
 
 ## How I work
 
