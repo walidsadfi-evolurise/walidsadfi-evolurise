@@ -19,6 +19,7 @@ I join a team, scope one process with the people who run it, and ship an AI agen
 | [woocommerce-agent-ready](https://github.com/walidsadfi-evolurise/woocommerce-agent-ready) | Audit a WooCommerce store for agentic commerce readiness. Score /100, a fix for every point lost. |
 | [woocommerce-mcp-server](https://github.com/walidsadfi-evolurise/woocommerce-mcp-server) | MCP server for WooCommerce: read tools with PII redaction, every write goes through a human-approved proposal. TypeScript. |
 | [lead-triage-agent](https://github.com/walidsadfi-evolurise/lead-triage-agent) | Inbound lead qualification: LLM extraction with rule fallback, explainable scoring, declarative routing, guardrails and audit. Python. |
+| [agent-evals-harness](https://github.com/walidsadfi-evolurise/agent-evals-harness) | Evaluate any LLM agent from YAML: checks, judges, repeated trials, latency percentiles, baseline regressions, JUnit, CI gate. Python. |
 | [private-rag-kit](https://github.com/walidsadfi-evolurise/private-rag-kit) | Self-hosted RAG over private documents: hybrid search, verified citations, refusal when the sources are missing, eval loop. Python, pgvector. |
 | [docker-wordpress-prod](https://github.com/walidsadfi-evolurise/docker-wordpress-prod) | Production WordPress/WooCommerce stack: Caddy, nginx FastCGI cache, PHP-FPM, MariaDB, Redis, encrypted S3 backups. |
 | [home-assistant-llm-agent](https://github.com/walidsadfi-evolurise/home-assistant-llm-agent) | Natural-language control of Home Assistant: LLM planner behind an allowlist, confirmation for risky actions, state verification, audit. Python. |
@@ -29,7 +30,7 @@ I join a team, scope one process with the people who run it, and ship an AI agen
 | [drupal-user-switcher](https://github.com/walidsadfi-evolurise/drupal-user-switcher) | Impersonate any Drupal account to debug permissions, with a one-click return. |
 | [Exit-intent-popup](https://github.com/walidsadfi-evolurise/Exit-intent-popup) | Lightweight exit-intent popup for WordPress. |
 
-Building next: an agent evals harness, a Terraform module for RAG infra on AWS. Watch this space.
+Building next: a Terraform module for RAG infra on AWS. Watch this space.
 
 ## How I work
 
