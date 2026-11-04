@@ -24,13 +24,14 @@ I join a team, scope one process with the people who run it, and ship an AI agen
 | [docker-wordpress-prod](https://github.com/walidsadfi-evolurise/docker-wordpress-prod) | Production WordPress/WooCommerce stack: Caddy, nginx FastCGI cache, PHP-FPM, MariaDB, Redis, encrypted S3 backups. |
 | [home-assistant-llm-agent](https://github.com/walidsadfi-evolurise/home-assistant-llm-agent) | Natural-language control of Home Assistant: LLM planner behind an allowlist, confirmation for risky actions, state verification, audit. Python. |
 | [wordpress-k8s-stack](https://github.com/walidsadfi-evolurise/wordpress-k8s-stack) | WordPress/WooCommerce on Kubernetes: immutable image, FastCGI cache, HPA, default-deny NetworkPolicies, PSS restricted, encrypted backups, kind e2e in CI. |
+| [aws-rag-infra](https://github.com/walidsadfi-evolurise/aws-rag-infra) | Terraform: private RAG API on AWS — VPC + endpoints, ALB/TLS, ECS Fargate autoscaling, RDS pgvector Multi-AZ, S3, Secrets Manager, alarms. tflint + checkov in CI. |
 | [wp-ai-disclosure](https://github.com/walidsadfi-evolurise/wp-ai-disclosure) | WordPress plugin: detects AI assistants on the site and shows the EU AI Act art. 50 transparency notice. |
 | [Basic-Auth-for-WP-Admin](https://github.com/walidsadfi-evolurise/Basic-Auth-for-WP-Admin) | HTTP basic auth in front of wp-admin and wp-login. |
 | [bulk-plugin-uploader](https://github.com/walidsadfi-evolurise/bulk-plugin-uploader) | Upload, install and activate many WordPress plugins in one go. |
 | [drupal-user-switcher](https://github.com/walidsadfi-evolurise/drupal-user-switcher) | Impersonate any Drupal account to debug permissions, with a one-click return. |
 | [Exit-intent-popup](https://github.com/walidsadfi-evolurise/Exit-intent-popup) | Lightweight exit-intent popup for WordPress. |
 
-Building next: a Terraform module for RAG infra on AWS. Watch this space.
+Next: WAF and Bedrock providers for the AWS module, a reranker for the RAG kit, multi-turn cases in the evals harness. Issues and PRs welcome.
 
 ## How I work
 
