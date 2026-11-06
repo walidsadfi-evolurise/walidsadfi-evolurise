@@ -2,6 +2,12 @@
 
 **Forward Deployed Engineer · AI agents in production · WooCommerce · Infrastructure**
 
+[![Malt](https://img.shields.io/badge/Malt-available-ff5a5f?logo=malt&logoColor=white)](https://www.malt.fr/profile/walidsadfi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-walid--s-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walid-s) [![Evolurise](https://img.shields.io/badge/Evolurise-web%20%26%20AI%20agency-111827)](https://www.evolurise.com)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759b?logo=wordpress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588a?logo=woocommerce&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7b42bc?logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232f3e?logo=amazonaws&logoColor=white) ![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white)
+
+[![CI woocommerce-agent-ready](https://github.com/walidsadfi-evolurise/woocommerce-agent-ready/actions/workflows/ci.yml/badge.svg)](https://github.com/walidsadfi-evolurise/woocommerce-agent-ready/actions) [![CI private-rag-kit](https://github.com/walidsadfi-evolurise/private-rag-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/walidsadfi-evolurise/private-rag-kit/actions) [![CI woocommerce-mcp-server](https://github.com/walidsadfi-evolurise/woocommerce-mcp-server/actions/workflows/ci.yml/badge.svg)](https://github.com/walidsadfi-evolurise/woocommerce-mcp-server/actions) [![CI lead-triage-agent](https://github.com/walidsadfi-evolurise/lead-triage-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/walidsadfi-evolurise/lead-triage-agent/actions) [![CI wordpress-k8s-stack](https://github.com/walidsadfi-evolurise/wordpress-k8s-stack/actions/workflows/ci.yml/badge.svg)](https://github.com/walidsadfi-evolurise/wordpress-k8s-stack/actions) [![CI aws-rag-infra](https://github.com/walidsadfi-evolurise/aws-rag-infra/actions/workflows/ci.yml/badge.svg)](https://github.com/walidsadfi-evolurise/aws-rag-infra/actions)
+
 I join a team, scope one process with the people who run it, and ship an AI agent that holds up in production: connected to the tools the company already uses (WooCommerce, CRM, LMS, ERP), with guardrails, evals and monitoring. Eight years of WordPress/WooCommerce and PHP/TypeScript before that, so the agent lands in a system I can also build and operate.
 
 ## What I ship
@@ -59,6 +65,8 @@ Next: WAF and Bedrock providers for the AWS module, a reranker for the RAG kit, 
 - Six months of evals and monitoring included on everything I deploy.
 
 ## Contact
+
+<a href="https://github.com/walidsadfi-evolurise"><img src="https://github-readme-stats.vercel.app/api?username=walidsadfi-evolurise&show_icons=true&include_all_commits=true&theme=default&hide_border=true" height="150" alt="GitHub stats" /></a> <a href="https://github.com/walidsadfi-evolurise"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidsadfi-evolurise&layout=compact&hide_border=true&langs_count=8" height="150" alt="Top languages" /></a>
 
 [Malt](https://www.malt.fr/profile/walidsadfi) · [LinkedIn](https://www.linkedin.com/in/walid-s) · [evolurise.com](https://www.evolurise.com)
 
