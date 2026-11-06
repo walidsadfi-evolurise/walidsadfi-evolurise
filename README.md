@@ -66,8 +66,6 @@ Next: WAF and Bedrock providers for the AWS module, a reranker for the RAG kit, 
 
 ## Contact
 
-<a href="https://github.com/walidsadfi-evolurise"><img src="https://github-readme-stats.vercel.app/api?username=walidsadfi-evolurise&show_icons=true&include_all_commits=true&theme=default&hide_border=true" height="150" alt="GitHub stats" /></a> <a href="https://github.com/walidsadfi-evolurise"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidsadfi-evolurise&layout=compact&hide_border=true&langs_count=8" height="150" alt="Top languages" /></a>
-
 [Malt](https://www.malt.fr/profile/walidsadfi) · [LinkedIn](https://www.linkedin.com/in/walid-s) · [evolurise.com](https://www.evolurise.com)
 
 Based in France, working remotely, on-site when it helps.
