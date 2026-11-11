@@ -12,6 +12,7 @@ I join a team, scope one process with the people who run it, and ship an AI agen
 
 ## What I ship
 
+| | |
 | --- | --- |
 | **Agents & RAG** | Lead qualification and routing, on-demand drafting over private document indexes, explainable scoring. Code-first agents, versioned, evaluated on every change. |
 | **Agentic commerce** | Making WooCommerce stores readable and buyable by AI shopping agents: product data, structured data, Store API, MCP, ACP readiness. |
